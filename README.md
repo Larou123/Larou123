@@ -8,8 +8,8 @@ Native macOS-Apps mit Swift und SwiftUI · mobile Prototypen mit React Native un
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Larou123-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Larou123)
-<!-- Optional: eigene Links eintragen oder Zeile löschen.
+<!-- Optional: eigene Links eintragen. Kommentarzeichen entfernen, Platzhalter ersetzen.
+     Ein Badge, der auf github.com/Larou123 zeigt, gehört hier nicht hin — man ist schon da.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](DEIN_LINKEDIN_LINK)
 [![Mail](https://img.shields.io/badge/Mail-schreiben-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DEINE_MAIL)
 -->
@@ -65,17 +65,13 @@ HERO-DEMO (optional, macht den größten Unterschied):
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 
----
-
-<div align="center">
-
-<!-- Diese zwei Karten kommen von github-readme-stats (Dritt-Service, kostenlos, kein Login nötig).
-     Wenn du keine externen Services im Profil willst: Block löschen. -->
-
-<img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Larou123&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent">
-<img height="165" alt="Meistgenutzte Sprachen" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larou123&layout=compact&hide_border=true&langs_count=8&theme=transparent">
-
-</div>
+<!--
+Hier standen zwei Statistik-Karten von github-readme-stats.vercel.app.
+Entfernt am 2026-11-08: der geteilte Vercel-Dienst antwortet mit HTTP 503,
+und kaputte Bilder auf der Profilseite sehen schlechter aus als gar keine.
+Wenn du sie willst, musst du github-readme-stats auf einer eigenen
+Vercel-Instanz deployen — dann sind sie zuverlässig.
+-->
 
 ---
 
