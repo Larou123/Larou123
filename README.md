@@ -45,9 +45,9 @@ HERO-DEMO (optional, macht den größten Unterschied):
 | Projekt | Worum es geht | Stack |
 | :-- | :-- | :-- |
 | **[PomodoroTimer](https://github.com/Larou123/pomodoro-timer)** | Native macOS-Pomodoro-App. Dunkles, reduziertes Design, animierter Timer-Ring, Statistiken, Menubar-Modus, Siri Shortcuts, Widget und Live Activity. | Swift · SwiftUI · WidgetKit · App Intents |
-| **[GeMainsam](https://github.com/Larou123/gemainsam)** | Mobile App, die nachhaltige Angebote in Frankfurt bündelt: entdecken, Aktion auslösen, Nachweis prüfen, Wirkung verstehen. Punkte und Impact strikt getrennt, jede Gutschrift mit Begründung. 🥈 2. Platz, FES Hackathon 2026. | React Native · Expo · TypeScript · GTFS |
+| **[GeMainsam](https://github.com/Imado30/FES-Hackathon-2026)** | Mobile App, die nachhaltige Angebote in Frankfurt bündelt: entdecken, Aktion auslösen, Nachweis prüfen, Wirkung verstehen. Punkte und Impact strikt getrennt, jede Gutschrift mit Begründung. 🥈 2. Platz, FES Hackathon 2026. | React Native · Expo · TypeScript · GTFS |
 | **[Agnes DSI](https://github.com/Larou123/Q-Hackathon)** | Einkaufs-Copilot für Beschaffung. Liest Produkte, Stücklisten, Rohstoffe und Lieferanten aus einer SQLite-Datenbank und empfiehlt Ersatzmaterialien, Haupt- und Backup-Lieferanten. Bedienung per Text oder Sprache. | Python · SQLite · HTML/JS · ElevenLabs |
-| **[2Bros1Way](https://github.com/Larou123/2bros1way)** | Jump-'n'-Run auf echter Hardware. Zwei Level, Endboss, Vogel-Begleiter, handgezeichnete Pixel-Art, WAV-Musik und eine Lebensanzeige aus fünf NeoPixeln. Uni-Projekt im Lab Multimodal Media Madness, RWTH Aachen. | C++ · Arduino · Adafruit Arcada |
+| **[2Bros1Way](https://hci.rwth-aachen.de/m3-2bros1way)** | Jump-'n'-Run auf echter Hardware. Zwei Level, Endboss, Vogel-Begleiter, handgezeichnete Pixel-Art, WAV-Musik und eine Lebensanzeige aus fünf NeoPixeln. Uni-Projekt im Lab Multimodal Media Madness, RWTH Aachen. | C++ · Arduino · Adafruit Arcada |
 
 ---
 
