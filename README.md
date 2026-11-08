@@ -4,7 +4,7 @@
 
 **Ich baue Apps, die man nach fünf Sekunden versteht.**
 
-Native macOS-Apps mit Swift und SwiftUI · mobile Prototypen mit React Native und Expo · Python, wenn Daten dahinter liegen · C++ auf dem Mikrocontroller, wenn es Pixel und Pins sind.
+Native Apps für Mac und iPhone mit Swift und SwiftUI · mobile Prototypen mit React Native und Expo · Python, wenn Daten dahinter liegen · C++ auf dem Mikrocontroller, wenn es Pixel und Pins sind.
 
 <br>
 
@@ -45,6 +45,7 @@ HERO-DEMO (optional, macht den größten Unterschied):
 | Projekt | Worum es geht | Stack |
 | :-- | :-- | :-- |
 | **[PomodoroTimer](https://github.com/Larou123/pomodoro-timer)** | Native macOS-Pomodoro-App. Dunkles, reduziertes Design, animierter Timer-Ring, Statistiken, Menubar-Modus, Siri Shortcuts, Widget und Live Activity. | Swift · SwiftUI · WidgetKit · App Intents |
+| **[Luma](https://github.com/Larou123/luma)** | iOS-App für die eigene Katze: Profil, Impfpass mit Erinnerung 30 Tage vor Ablauf, Foto-Tagebuch, das sich über iCloud mit dem ganzen Haushalt teilt, und ein Widget mit dem neuesten Foto. | Swift · SwiftUI · SwiftData · CloudKit · WidgetKit |
 | **[GeMainsam](https://github.com/Larou123/FES-Hackathon-2026)** | Mobile App, die nachhaltige Angebote in Frankfurt bündelt: entdecken, Aktion auslösen, Nachweis prüfen, Wirkung verstehen. Punkte und Impact strikt getrennt, jede Gutschrift mit Begründung. 🥈 2. Platz, FES Hackathon 2026. | React Native · Expo · TypeScript · GTFS |
 | **[Agnes DSI](https://github.com/Larou123/Q-Hackathon)** | Einkaufs-Copilot für Beschaffung. Liest Produkte, Stücklisten, Rohstoffe und Lieferanten aus einer SQLite-Datenbank und empfiehlt Ersatzmaterialien, Haupt- und Backup-Lieferanten. Bedienung per Text oder Sprache. | Python · SQLite · HTML/JS · ElevenLabs |
 | **[2Bros1Way](https://github.com/Larou123/2bros1way)** | Jump-'n'-Run auf echter Hardware. Zwei Level, Endboss, Vogel-Begleiter, handgezeichnete Pixel-Art, WAV-Musik und eine Lebensanzeige aus fünf NeoPixeln. Uni-Projekt im Lab Multimodal Media Madness, RWTH Aachen. | C++ · Arduino · Adafruit Arcada |
